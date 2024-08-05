@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @J-Verhaar
-- 👀 I’m interested in game development
+- Hi I'm a solo dev learing to code.
 
 
 <!---
